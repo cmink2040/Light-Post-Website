@@ -1,1 +1,0 @@
-# This repository is licensed under the GPL v3.0 and later license.
