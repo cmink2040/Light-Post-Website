@@ -1,4 +1,3 @@
-import './App.css'
 import RequestMaker from './parts/requests'
 import Workspace from './parts/workspace'
 
